@@ -1,3 +1,1 @@
-## Hi there 👋
-
-Azlen & Selina
+The home for Azlen and Selina's shared projects
